@@ -1,5 +1,7 @@
 # FiveM-RW
 
+- Client Version: v1.0.0.5503
+
 ```js
 
 [리얼월드 전용 클라이언트]
